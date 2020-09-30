@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_1"><path d="M0,1298.2V0H910.6V1298.2Z"/></clipPath>
+<clipPath id="c1_1"><path d="M0,1287.9V0H910.6V1287.9Z"/></clipPath>
+<clipPath id="c2_1"><path d="M0,1287.9V0H895.2V1287.9Z"/></clipPath>
+<clipPath id="c3_1"><path d="M588.1,314.4V7.1H895.4V314.4Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_1{
+fill: #FFFFFF;
+}
+.g1_1{
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_1)">
+<path d="M0,0H910.6V9076.9H0V0Z" class="g0_1"/>
+<path d="M0,0H910.6V1287.9H0V0Z" class="g0_1"/>
+</g>
+<path clip-path="url(#c1_1)" d="M0,0H910.6V1287.9H0V0Z" class="g1_1"/>
+<image clip-path="url(#c2_1)" preserveAspectRatio="none" x="-49" y="-73" width="1041" height="1388" opacity="0.5294" xlink:href="img/1.jpg"/>
+<image clip-path="url(#c3_1)" preserveAspectRatio="none" x="588" y="7" width="307" height="307" xlink:href="img/2.png"/>
+</svg>
